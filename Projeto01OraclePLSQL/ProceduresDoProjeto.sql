@@ -1,5 +1,5 @@
 
-/* =================================================== PROCEDURES DO BANCO DE DADOS ==============================================*/ 
+/*PROCEDURES DO BANCO DE DADOS*/ 
 
 
 
@@ -60,3 +60,5 @@ BEGIN
  SP_LOJISTA (P_NOME_LOJI  => '&DIGITE_NOME_LOJISTAO');
              
 END;
+
+

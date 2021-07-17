@@ -1,5 +1,5 @@
 
-/* =================================================== SEQUENCE DO BANCO DE DADOS ==============================================*/   
+/*SEQUENCE DO BANCO DE DADOS*/   
    
 
 CREATE SEQUENCE SEQ_CLI 
@@ -32,3 +32,5 @@ INCREMENT BY 5
 NOCACHE
 NOCYCLE
 NOORDER;
+
+

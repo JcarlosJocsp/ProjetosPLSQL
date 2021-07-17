@@ -1,5 +1,5 @@
 
-/* =================================================== TABELAS DO BANCO DE DADOS ==============================================*/
+/*TABELAS DO BANCO DE DADOS*/
 
 
 
@@ -117,3 +117,5 @@ INSERT INTO VAUCHER VALUES('LDR7856QPZF',0.5);
 
 /*ALTER TABLE RELATORIO_VAUCHER
 RENAME TO VENDAS;*/
+
+
