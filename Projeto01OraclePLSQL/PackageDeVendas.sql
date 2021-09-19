@@ -7,7 +7,7 @@ CREATE OR REPLACE PACKAGE PKG_VOUCHER_DESC IS
                       P_CPF_CLI     IN CAD_CLI_02.CPF_CLI   %TYPE,
                       P_COD_PRO     IN PRODUTO.COD_PRO      %TYPE,
                       P_COD_VAUCHER IN VAUCHER.COD_VAU      %TYPE);
-END PKG_VOUCHER_DESC;
+ END PKG_VOUCHER_DESC;
 
 
 
