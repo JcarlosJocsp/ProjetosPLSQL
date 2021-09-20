@@ -149,6 +149,7 @@ BEGIN
   SP_VENDAS (P_COD_LOJ     => &DIGITE_COD_LOJISTA,
              P_CPF_CLI     => &DIGITE_CPF_DO_CLIENTE,
              P_COD_PRO     => &DIGITE_COD_PRO,
+             
              P_COD_VAUCHER => '&DIGITE_CODIGO_VAUCHER');
 END;  
   
