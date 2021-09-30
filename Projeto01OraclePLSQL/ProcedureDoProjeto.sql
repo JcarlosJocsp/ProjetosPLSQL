@@ -16,9 +16,9 @@ END;
 
 BEGIN
   SP_CAD_CLI (P_CPF_CLI  => &DIGITE_CPF_CLI,
-  
               P_NOME_CLI => '&DIGITE_NOME_CLI');
 END;
+ 
               
            
 
